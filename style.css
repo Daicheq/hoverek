@@ -32,13 +32,13 @@ body {
 }
 
 .one {
-	background-image: url('img/forest-56930.jpg');
+	background-image: url('/img/forest-56930.jpg');
 }
 .two {
-	background-image: url('img/valley-4646114_1920.jpg');
+	background-image: url('/img/valley-4646114_1920.jpg');
 }
 .three {
-	background-image: url('img/namibia-4965456_1920.jpg');
+	background-image: url('/img/namibia-4965456_1920.jpg');
 }
 
 .text {
